@@ -1,0 +1,26 @@
+{
+  "name": "bot",
+  "version": "0.0.1",
+  "description": "telegram bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/motovamp/tbot.git"
+  },
+  "keywords": [
+    "telegram",
+    "bot"
+  ],
+  "author": "MotoVamp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/motovamp/tbot/issues"
+  },
+  "homepage": "https://github.com/motovamp/tbot#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.64.0"
+  }
+}
